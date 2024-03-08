@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.4...v1.2.0) (2024-03-08)
+
+
+### Miscellaneous Chores
+
+* release 1.2.0 ([8da756b](https://github.com/nicolas-mark/release-please-testing/commit/8da756bfd4caadc8d62ae195258d50b9511ccf50))
+
 ## [1.1.4](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.3...v1.1.4) (2024-03-08)
 
 
