@@ -1,3 +1,6 @@
 {
-    "initial-version": "1.0.0"
+    "initial-version": "1.0.0",
+    ".": "1.0.0",
+    "elixir_app": "1.0.0",
+    "elixir_app2": "1.0.0"
 }
