@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.3](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.2...v1.1.3) (2024-03-08)
+
+
+### Bug Fixes
+
+* release-please-config.json ([8bc8988](https://github.com/nicolas-mark/release-please-testing/commit/8bc8988df5a9191892c948140b3da6215e62c442))
+* release-please-config.json ([429ab97](https://github.com/nicolas-mark/release-please-testing/commit/429ab979ef88796477e68cbbbc987a53045a6795))
+* release-please-config.json ([cae6da0](https://github.com/nicolas-mark/release-please-testing/commit/cae6da07d2e7d2bfc42dd02b912bc615d8930194))
+
 ## [1.1.2](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.1...v1.1.2) (2024-03-08)
 
 
