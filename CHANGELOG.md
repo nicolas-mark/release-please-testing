@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.3...v1.1.4) (2024-03-08)
+
+
+### Bug Fixes
+
+* elixir_app ([58d12fc](https://github.com/nicolas-mark/release-please-testing/commit/58d12fc0cebd5509144dccadfbe1b20d9eeddf3d))
+
 ## [1.1.3](https://github.com/nicolas-mark/release-please-testing/compare/v1.1.2...v1.1.3) (2024-03-08)
 
 
