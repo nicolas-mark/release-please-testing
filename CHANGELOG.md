@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.1...common-v1.2.2) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** add ecto ([ae2fcfb](https://github.com/nicolas-mark/release-please-testing/commit/ae2fcfb4ce4c232ccf4e37e10c42891101a6069c))
+* release-please-config.json ([361fc2d](https://github.com/nicolas-mark/release-please-testing/commit/361fc2d7e9b81e22b475c9ff3f5d552e770d22a9))
+
 ## [1.2.1](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.0...common-v1.2.1) (2024-03-09)
 
 
