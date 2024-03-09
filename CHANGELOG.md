@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.3...common-v1.2.4) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** mix.exs comment ([c94abb5](https://github.com/nicolas-mark/release-please-testing/commit/c94abb5712f7026a5b40df31cba48c5cba4de1e4))
+
 ## [1.2.3](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.2...common-v1.2.3) (2024-03-09)
 
 
