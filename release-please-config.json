@@ -1,19 +1,23 @@
 {
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "pull-request-title-pattern": "chore(${scope}): release ${component} ${version}",
-    "prerelease": true,
     "release-type": "elixir",
     "include-component-in-tag": true,
     "include-v-in-tag": true,
     "packages": {
         ".": {
             "package-name": "common",
+            "prerelease": true,
             "release-type": "simple"
         },
         "elixir_app": {
+            "prerelease": true,
+            "release-type": "elixir",
             "package-name": "coolio"
         },
         "elixir_app2": {
+            "prerelease": true,
+            "release-type": "elixir",
             "package-name": "ice_t"
         }
     }
