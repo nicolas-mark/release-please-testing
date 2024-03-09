@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.10-beta](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.9...common-v1.2.10-beta) (2024-03-09)
+
+
+### Bug Fixes
+
+* release-please ([79ae448](https://github.com/nicolas-mark/release-please-testing/commit/79ae44854b4a85b0b5064e1dab1455774363324c))
+
 ## [1.2.9](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.8...common-v1.2.9) (2024-03-09)
 
 
