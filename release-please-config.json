@@ -7,9 +7,14 @@
     "include-v-in-tag": true,
     "packages": {
         ".": {
+            "package-name": "common",
             "release-type": "simple"
         },
-        "elixir_app": {},
-        "elixir_app2": {}
+        "elixir_app": {
+            "package-name": "coolio"
+        },
+        "elixir_app2": {
+            "package-name": "ice_t"
+        }
     }
 }
