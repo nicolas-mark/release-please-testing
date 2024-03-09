@@ -3,6 +3,7 @@
     "pull-request-title-pattern": "chore(${scope}): release ${component} ${version}",
     "include-component-in-tag": true,
     "include-v-in-tag": true,
+    "release-type": "elixir",
     "packages": {
         ".": {
             "package-name": "common",
