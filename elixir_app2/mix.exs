@@ -23,7 +23,8 @@ defmodule ElixirApp2.MixProject do
     [
       {:ecto, "~> 3.11"},
       {:grpc, "~> 0.7"},
-      {:protobuf, "~> 0.12"}
+      {:protobuf, "~> 0.12"},
+      {:wax_, "~> 0.6.4"}
     ]
   end
 end
