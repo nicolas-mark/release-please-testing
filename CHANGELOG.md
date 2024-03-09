@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.5](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.4...common-v1.2.5) (2024-03-09)
+
+
+### Bug Fixes
+
+* **release-please:** release-please-config.json changes ([409b721](https://github.com/nicolas-mark/release-please-testing/commit/409b7219e0e4fe8e157ed0e97310e17a7912da8e))
+
 ## [1.2.4](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.3...common-v1.2.4) (2024-03-09)
 
 
