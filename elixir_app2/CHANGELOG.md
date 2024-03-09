@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0-beta.1+0](https://github.com/nicolas-mark/release-please-testing/compare/ice_t-v1.2.0-beta+0...ice_t-v1.2.0-beta.1+0) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** mix.deps wax_ ([3589aa5](https://github.com/nicolas-mark/release-please-testing/commit/3589aa57ab48e42c59408c4b8df791ca88a38f1a))
+
 ## [1.2.0-beta+0](https://github.com/nicolas-mark/release-please-testing/compare/ice_t-v1.1.4-beta+0...ice_t-v1.2.0-beta+0) (2024-03-09)
 
 
