@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.7...common-v1.2.8) (2024-03-09)
+
+
+### Bug Fixes
+
+* release-please-manifest ([60c8ff7](https://github.com/nicolas-mark/release-please-testing/commit/60c8ff76d43519664b00f797309f4f195bb51576))
+
 ## [1.2.7](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.6...common-v1.2.7) (2024-03-09)
 
 
