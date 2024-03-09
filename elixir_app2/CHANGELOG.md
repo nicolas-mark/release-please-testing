@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/nicolas-mark/release-please-testing/compare/ice_t-v1.1.3...ice_t-v1.1.4) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** mix grpc deps ([9e82a21](https://github.com/nicolas-mark/release-please-testing/commit/9e82a21cabfcff772fff80d0d6a779c8debffb4d))
+
 ## [1.1.3](https://github.com/nicolas-mark/release-please-testing/compare/ice_t-v1.1.2...ice_t-v1.1.3) (2024-03-09)
 
 
