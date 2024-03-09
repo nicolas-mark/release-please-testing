@@ -21,7 +21,9 @@ defmodule ElixirApp2.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ecto, "~> 3.11"}
+      {:ecto, "~> 3.11"},
+      {:grpc, "~> 0.7"},
+      {:protobuf, "~> 0.12"}
     ]
   end
 end
