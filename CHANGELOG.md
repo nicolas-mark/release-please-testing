@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.2...common-v1.2.3) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** add config.exs ([06ad2d6](https://github.com/nicolas-mark/release-please-testing/commit/06ad2d6fbbbf8fda8c24834be162d4b2da818b49))
+
 ## [1.2.2](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.1...common-v1.2.2) (2024-03-09)
 
 
