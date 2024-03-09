@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.9](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.8...common-v1.2.9) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** mix.deps wax_ ([3589aa5](https://github.com/nicolas-mark/release-please-testing/commit/3589aa57ab48e42c59408c4b8df791ca88a38f1a))
+* versioning ([6b2a44f](https://github.com/nicolas-mark/release-please-testing/commit/6b2a44f69d41f1a7d5e32eaad566e6445ba35afa))
+
 ## [1.2.8](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.7...common-v1.2.8) (2024-03-09)
 
 
