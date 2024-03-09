@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.10-beta.1](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.10-beta...common-v1.2.10-beta.1) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app:** readme ([d45c8ee](https://github.com/nicolas-mark/release-please-testing/commit/d45c8eee9bf7aadbc9218c1e1001dc1ebd24b9c7))
+
 ## [1.2.10-beta](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.9...common-v1.2.10-beta) (2024-03-09)
 
 
