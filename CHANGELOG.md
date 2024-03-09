@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.5...common-v1.2.6) (2024-03-09)
+
+
+### Bug Fixes
+
+* **elixir_app2:** mix grpc deps ([9e82a21](https://github.com/nicolas-mark/release-please-testing/commit/9e82a21cabfcff772fff80d0d6a779c8debffb4d))
+
 ## [1.2.5](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.4...common-v1.2.5) (2024-03-09)
 
 
