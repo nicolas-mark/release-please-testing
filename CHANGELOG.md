@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.7](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.6...common-v1.2.7) (2024-03-09)
+
+
+### Bug Fixes
+
+* versioning for prerelease ([659afb3](https://github.com/nicolas-mark/release-please-testing/commit/659afb39cbcf0eff5ed3d219040ed820104e0bbb))
+
 ## [1.2.6](https://github.com/nicolas-mark/release-please-testing/compare/common-v1.2.5...common-v1.2.6) (2024-03-09)
 
 
