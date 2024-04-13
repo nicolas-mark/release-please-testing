@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.5.0-beta.1](https://github.com/nicolas-mark/release-please-testing/compare/coolio-v1.5.0-beta...coolio-v1.5.0-beta.1) (2024-03-28)
+## [1.5.0-beta.1](https://github.com/nicolas-mark/release-please-testing/compare/coolio-v1.5.0-beta...coolio-v1.5.0-beta.1) (2024-03-09)
 
 
 ### Bug Fixes
